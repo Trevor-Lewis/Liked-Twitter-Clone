@@ -1,0 +1,28 @@
+html, body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+  "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+  sans-serif;
+  background-color: #b3b3b3;
+  color: rgb(216, 216, 216);
+}
+
+.container {
+  margin: 80px auto 0px auto;
+  max-width: 1200px;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.login-container {
+  max-width: 200px;
+  display: flex;
+  justify-content: space-between;
+  color: rgba(204, 204, 204, 0.685);
+}
+
+a {
+  color: rgb(231, 231, 231)
+}
